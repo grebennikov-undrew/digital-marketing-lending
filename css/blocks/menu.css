@@ -1,0 +1,23 @@
+.menu__list {
+    display: flex;
+    list-style: none;
+    /* margin-right: 28%; */
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.menu__item {
+    padding: 0 10px;
+    /* font */
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    margin-right: 20px;
+}
+
+.menu__link {
+    text-decoration: none;
+    color: black;
+}

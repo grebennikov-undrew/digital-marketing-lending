@@ -1,0 +1,33 @@
+.description__title {
+    margin-bottom: 39px;
+
+    font-family: Oswald, Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 66px;
+    text-transform: uppercase;
+}
+
+.description__text {
+    margin: 13px 0 17px 0;
+    font-family: Roboto, Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;  
+}
+
+.description__button {
+    width: 176px;
+    background: #FFA332;
+}
+
+.description__mention {
+    /* width: 300px; */
+    height: 56px;
+    padding: 12px 100px 12px 100px;
+    margin-bottom: 40px;
+    background: url("../../img/samantha.png") left top no-repeat transparent;
+    background-size: 80px 80px;
+}

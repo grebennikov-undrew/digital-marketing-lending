@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Roboto, Oswald, Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    overflow-wrap: break-word;
+}
+
+.container{
+    max-width: 100%;
+    min-width: 320px;
+}
+
+.wrap {
+    max-width: 1200px;
+    min-width: 280px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.button {
+    /* Position */
+    display: block;
+    height: 52px;
+    
+    /* Style */
+    text-decoration: none;
+    border-radius: 30px;
+    border: none;
+    background-color: #0057FF;
+
+    /* Font */
+    font-family: Oswald, Arial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    text-transform: uppercase;
+}
